@@ -3,8 +3,8 @@ Este proyecto es la Actividad final para la materia de
 Tópico de Industria I para la Maestria en Computo Aplicado 
 
 ## Alumno
-**Nombre: ** Noé Guerrero Ascencio  
-**e-mail: ** noe.gascencio@alumnos.udg.mx  
+**Nombre:** Noé Guerrero Ascencio  
+**e-mail:** noe.gascencio@alumnos.udg.mx  
 
 ## Descripción
 El presente repositio incluye un código escrito en **python**  
