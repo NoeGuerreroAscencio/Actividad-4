@@ -5,9 +5,12 @@ Tópico de Industria I para la Maestria en Computo Aplicado
 ## Alumno
 **Nombre:** Noé Guerrero Ascencio  
 **e-mail:** noe.gascencio@alumnos.udg.mx  
+## Nombre del profesor
+**Nombre:** Fernando Wario Vazquez  
+**e-mail:** fernando.wario@academicos.udg.mx
 
 ## Descripción
-El presente repositio incluye un código escrito en **python**  
+El presente repositorio incluye un código escrito en **python**  
 que genera un DashBoard con distintos tipos de Random Walks  
 (caminatas aleatorias); en especifico el Brownian Motion,  
 Correlated Random Walk y Levy Flight.
